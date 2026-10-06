@@ -14,6 +14,7 @@
   <a href="https://youtube.com/@skylineCoder"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://www.instagram.com/shivaa_shivaaa_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:shivasrivastava626@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://topmate.io/shivasrivastava"><img src="https://img.shields.io/badge/Topmate-Book%20a%201%3A1-E44332?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Topmate" /></a>
   <img src="https://komarev.com/ghpvc/?username=shiva-srivastav&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile views" />
 </p>
 
@@ -126,6 +127,8 @@ I share programming tutorials and tech knowledge on my YouTube channel **[Skylin
 
 <p align="center">
   <b>💡 Always up for building products that solve real-world problems. Let's connect!</b>
+  <br/><br/>
+  Want to talk backend, system design or careers? <a href="https://topmate.io/shivasrivastava"><b>Book a 1:1 on Topmate</b></a>
 </p>
 
 <p align="center">
