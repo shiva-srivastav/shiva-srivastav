@@ -44,9 +44,11 @@ I build scalable, production-ready applications, and I enjoy owning the whole jo
 
 ---
 
-## 🔥 Currently Building: Digveda
+## 🔥 Currently Building: [Digveda](https://www.digveda.com)
 
-Leading engineering for **Digveda**, an all-in-one spirituality platform built from the ground up.
+Leading engineering for **[Digveda](https://www.digveda.com)**, an all-in-one spirituality platform built from the ground up.
+
+<a href="https://www.digveda.com"><img src="https://img.shields.io/badge/Live-digveda.com-FF9933?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit digveda.com" /></a>
 
 | Area | What I built |
 | :-- | :-- |
@@ -92,8 +94,8 @@ Leading engineering for **Digveda**, an all-in-one spirituality platform built f
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🕉️ Digveda</h3>
-      <p>All-in-one spirituality platform: AI-powered Palmistry, Numerology and Kundli, e-commerce, online consultations, payments and logistics. Built from scratch.</p>
+      <h3>🕉️ <a href="https://www.digveda.com">Digveda</a></h3>
+      <p>All-in-one spirituality platform: AI-powered Palmistry, Numerology and Kundli, e-commerce, online consultations, payments and logistics. Built from scratch. <a href="https://www.digveda.com"><b>Visit site →</b></a></p>
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
