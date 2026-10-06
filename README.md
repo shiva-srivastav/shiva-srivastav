@@ -10,6 +10,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/shivasrivastava1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/shivasrivastava2/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="https://shiva-srivastav.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-7aa2f7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://youtube.com/@skylineCoder"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://www.instagram.com/shivaa_shivaaa_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
@@ -105,6 +106,18 @@ Leading engineering for **[Digveda](https://www.digveda.com)**, an all-in-one sp
     </td>
   </tr>
 </table>
+
+---
+
+## 🧠 Problem Solving
+
+<p align="center">
+  <a href="https://leetcode.com/u/shivasrivastava2/">
+    <img src="https://leetcard.jacoblin.cool/shivasrivastava2?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats for shivasrivastava2" />
+  </a>
+</p>
+
+<p align="center"><b>273+ problems solved on <a href="https://leetcode.com/u/shivasrivastava2/">LeetCode</a></b>: 109 Easy · 123 Medium · 41 Hard</p>
 
 ---
 
